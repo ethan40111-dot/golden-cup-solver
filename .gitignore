@@ -1,0 +1,14 @@
+/answers/
+/work/
+/results/
+/runs/
+
+*.log
+*.tmp
+*.zip
+*reference*.json
+
+.env
+.env.*
+*.pem
+*.key
